@@ -1,2 +1,2 @@
 
-#This is simple To do app made with React!
+This is simple To do app made with React!
