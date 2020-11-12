@@ -1,2 +1,5 @@
 
-This is simple To do app made with React!
+# TO DO LIST
+
+## Technologies:
+HTML, CSS, JS, BABEL, SASS, REACT
